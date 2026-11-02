@@ -23,3 +23,9 @@ This Crepes Ingredients Calculator is a user-friendly web tool that enables you 
   - Result: Receive a clear display of the total amounts of flour, eggs, milk, and sugar needed for your crepe recipe.
 
 This calculator is perfect for both beginners and seasoned chefs, providing accurate measurements to streamline your crepe-making process. Enjoy hassle-free cooking with the Crepes Ingredients Calculator.
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fcrepes-recipe-calculator)
+
+Click the button to deploy your own copy on Vercel in one step.
